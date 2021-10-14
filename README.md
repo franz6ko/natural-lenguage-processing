@@ -41,7 +41,7 @@ of a clothing ecommerce.
 
 [Link to Colab](https://github.com/franz6ko/natural-lenguage-processing/blob/master/challenge_5_clothing_ecommerce_reviews.ipynb)
 
-## Challenge N°6: QA bot using Seq2seq
+## Challenge N°6: Q&A bot using Seq2seq
 
 In this challenge, a **conversational bot** was implemented using an **encoder-decoder seq2seq** architecture. The user can talk interactively with the bot which answers
 surprisingly well with well-formed sentences given its resources and potential. 
