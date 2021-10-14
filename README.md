@@ -10,7 +10,7 @@ My first steps in NLP. Using the basic concepts of NLP, we coded by hand the con
 then **frequency vectors**, and finally **TFIDF** vectors. Once we had vectors instead of sentences, the documents of the corpus were compared using the **cosine
 similarity** to analyse which sentences are closer to each other.
 
-[Link to Colab](https://github.com/franz6ko/natural-lenguage-processing/blob/master/challenge-1-word2vec.ipynb)
+[Link to Colab](https://github.com/franz6ko/natural-lenguage-processing/blob/master/challenge_1_word2vec.ipynb)
 
 ## Challenge N°2: rule-based bot using DNN + spaCy
 
